@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Kyle 👋
+**Automotive Engineering MEng Student | Aspiring Control Systems & Data Engineer**
 
-<!--
-**KyleWareEng/KyleWareEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between **Mechanical Engineering** and **Data Science**. Currently on a gap year focused on Simulation, Financial Modelling, and Cloud Systems.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**
+* **Engineering:** MATLAB, Simulink, Siemens NX, STAR-CCM+
+* **Data:** Python (Pandas, Matplotlib), SQL, Tableau
+* **Cloud:** Google Cloud (Vertex AI), AWS (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current Focus:**
+* Building a **Vehicle Telemetry Analyser** in Python.
+* Modelling **PID Control Systems** in Simulink.
+* Automating financial risk analysis with **Monte Carlo simulations**.
+
+📫 **Contact:** [LinkedIn](https://linkedin.com/in/kyleaware) | [Email](mailto:kyle.ware@outlook.com)
