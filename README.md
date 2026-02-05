@@ -23,9 +23,9 @@ Google Cloud Platform · Vertex AI · Git · Jupyter
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [PID Cruise Control System](https://github.com/KyleWareEng/pid-cruise-control-simulink) | Simulink model with disturbance rejection and tuning analysis | MATLAB, Simulink |
 | [Monte Carlo Risk Engine](https://github.com/KyleWareEng/Monte-Carlo-Risk-Engine) | Financial VaR calculation using Geometric Brownian Motion | Python, NumPy |
 | [HR Analytics - Salifort Motors](https://github.com/KyleWareEng/Salifort-Motors-HR-Analytics) | Employee turnover prediction achieving 92.5% recall | Python, Scikit-learn |
+| [PID Cruise Control System](https://github.com/KyleWareEng/PID-Cruise-Control-Simulink) | Vehicle speed control with disturbance rejection | MATLAB, Simulink |
 
 ---
 
